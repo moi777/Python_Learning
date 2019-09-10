@@ -24,12 +24,12 @@ Python 有官方版本和发行版本，最流行的发行版是 Anaconda，Anac
 
 **学习 Python 编程的利器**
 
-1. Python 官网：Tutorial 官网文档
-2. iPython：交互式的 Python 解释器
-3. Jupyter Notebook：网页上执行 Python 代码，可以用于简单的调试
-4. Sublime Text：文本编辑器
-5. Pycharm：集成开发环境
-6. Pip：使用 Pip 来解决第三方包与包之间的依赖关系
+- Python 官网：Tutorial 官网文档
+- iPython：交互式的 Python 解释器
+- Jupyter Notebook：网页上执行 Python 代码，可以用于简单的调试
+- Sublime Text：文本编辑器
+- Pycharm：集成开发环境
+- Pip：使用 Pip 来解决第三方包与包之间的依赖关系
 
 
 
